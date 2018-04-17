@@ -1,0 +1,2 @@
+2018-04-15 16:25:28.039 - Logger - INFO MESSAGE: Hi, foo
+2018-04-15 16:25:29.040 - Aerospike_Connect - ERROR MESSAGE: Failed to connect to the cluster with [('172.28.128.3', 3000)](-10, 'Failed to connect', 'src/main/aerospike/as_cluster.c', 249, False)

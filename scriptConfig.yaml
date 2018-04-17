@@ -1,0 +1,4 @@
+Custom script:
+  Execute script after attack alarm exceeds (alarms per 10 seconds): 50
+  Script folder: /home/ubuntu/Desktop/CustomScriptFolder
+  Script file: custom_script
